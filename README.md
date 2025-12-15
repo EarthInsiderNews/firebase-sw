@@ -1,3 +1,4 @@
+# firebase-sw
 # Firebase Service Worker for Blogger
 
 This repository contains the firebase-messaging-sw.js file
